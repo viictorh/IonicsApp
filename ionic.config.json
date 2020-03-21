@@ -1,0 +1,7 @@
+{
+  "name": "DeRose",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
